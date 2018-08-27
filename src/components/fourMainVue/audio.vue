@@ -3,7 +3,7 @@
         <section>
             <div class="litte-video">
                 <ul>                    
-                    <li v-for="i in 3">
+                    <li v-for="i in 5">
                         <div class="bgimg"></div>
                         <video width="100%" height=""  name="media"  poster="../../assets/images/vedioimg.jpg">
                             <source src="http://vjs.zencdn.net/v/oceans.mp4"   type="video/mp4">
